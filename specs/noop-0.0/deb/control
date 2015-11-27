@@ -1,0 +1,8 @@
+Package: noop
+Version: __RELEASE_VERSION__
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: jfota
+Description: NOOP package
+Tag: __RELEASE_BRANCH__

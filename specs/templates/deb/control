@@ -1,0 +1,13 @@
+Package: template
+Version: __RELEASE_VERSION__
+Section: base
+Priority: optional
+Architecture: all
+#Depends: 
+#Breaks:
+#Provides:
+#Conflicts:
+#Recommends: 
+Maintainer: jfota
+Description: jfota
+Tag: __RELEASE_BRANCH__
